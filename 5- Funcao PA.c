@@ -13,7 +13,6 @@ int soma(int n, int a1, int an){
 int main(){
 
     int n, a1, an;
-
     scanf("%d %d %d", &n, &a1, &an);
     soma(n, a1, an);
 
